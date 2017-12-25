@@ -1,7 +1,7 @@
 # NSS Exercise: boybands
 
 ## Project Description
-> Loop through the two arrays provided (bands and vegetables) and output each element in the arrays into their corresponding HTML <div> element.
+> Loop through the two arrays provided (bands and vegetables) and output each element in the arrays into their corresponding HTML `<div>` element.
 
 ## Final Product
 The purpose of this project was a first dive into using Javascript in class.
