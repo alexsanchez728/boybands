@@ -10,8 +10,8 @@ In this project we use Javascript to loop over two arrays and write each value t
 ## How to Run it
 Must have Node installed first
 ```
-$ git clone https://github.com/alexsanchez728/adopt-my-cats.git
-$ cd adopt-my-cats/
+$ git clone https://github.com/alexsanchez728/boybands.git
+$ cd boybands/
 $ npm install http-server -g
 $ http-server -p 8080
 ```
